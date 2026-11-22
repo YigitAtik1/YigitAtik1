@@ -21,7 +21,7 @@ I specialize in investigating complex integration failures, connecting systems a
 ### [Integration Boundary Lab](https://github.com/YigitAtik1/integration-boundary-lab-public)
 Reproducible investigations of mobile SDK integration failures, focusing on lifecycle behavior, rendering issues, and cross-platform debugging.
 
-### Autonomous Carry Robot
+### [Autonomous Carry Robot](https://github.com/YigitAtik1/autonomous-carry-robot-public)
 Autonomous navigation and robotic system integration, combining localization, path planning, embedded control, and computer vision.
 
 ### AI-Powered Integration Diagnostics — In Development
